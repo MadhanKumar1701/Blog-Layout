@@ -22,3 +22,7 @@ Tested on:
 - Mobile (360px)
 - Tablet (768px)
 - Desktop (1920px)
+
+# 📰 Task 8 – Responsive Blog Page using Bootstrap
+
+🌐 **Live Demo:** [Click here to view](https://madhankumar1701.github.io/task-8-bootstrap-blog/)
