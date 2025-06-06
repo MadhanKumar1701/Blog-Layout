@@ -25,4 +25,4 @@ Tested on:
 
 # 📰 Task 8 – Responsive Blog Page using Bootstrap
 
-🌐 **Live Demo:** [Click here to view](https://madhankumar1701.github.io/task-8-bootstrap-blog/)
+🌐 **Live Demo:** [Click here to view](https://madhankumar1701.github.io/Blog-Layout/)
